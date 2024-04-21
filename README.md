@@ -26,7 +26,7 @@ Don't be afraid to try out different effects and animations in Framer Motion or 
 
 Have fun!
 
-**Live:** [Portfolio - Pranjal Rastogi](https://portfolio-zeta-two-10.vercel.app/)
+**Live:** [Portfolio - Pranjal Rastogi](https://portfolio-one-rust-39.vercel.app/)
 
 ## Credits
 
