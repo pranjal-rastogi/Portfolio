@@ -43,7 +43,7 @@ export default function Header({}: Props) {
           </li>
           <li>
             <a
-              href=""
+              href="https://twitter.com/pranjal_098"
               className="text-gray-800 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
             >
               <svg
