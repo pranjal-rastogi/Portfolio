@@ -1,0 +1,22 @@
+{
+  "experience": [
+    {
+      "clogo": "/companyLogo/company.jpeg",
+      "title": "Web developer intern",
+      "company": "at, Hikup Media.tech",
+      "point1": "Developed a responsive web application using HTML5, CSS3 & JavaScript to manage and visualize data.",
+      "point2": "Implemented interactive features using React and harnessed the capabilities of AgGrid to optimize data display and enhance user engagement.",
+      "startDate": "July, 2022",
+      "endDate": "August, 2022"
+    },
+    {
+      "clogo": "/companyLogo/hackathon.png",
+      "title": "Hackathon",
+      "company": "Rajasthan IT Day Hackathon",
+      "point1": "Developed a web application using React, Node.js, and MongoDB to help farmers in Rajasthan to sell their products directly to the customers.",
+      "point2": "The application was selected in the top 20 projects out of 100+ projects.",
+      "startDate": "March 19",
+      "endDate": "March 21 (2023)"
+    }
+  ]
+}

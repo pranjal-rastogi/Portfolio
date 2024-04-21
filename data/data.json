@@ -1,0 +1,202 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 2,
+        "title": "Web Inspire",
+        "content": "A curated list of good looking websites. Built with TypeScript, Next, Tailwind, PlayWright, and Vercel.",
+        "imgurl": "/projectSS/web.png",
+        "githubLink": "https://github.com/pranjal-rastogi/web-inspire",
+        "deployedLink": "https://web-inspire-three.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/react.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Polyrhythmic Rings",
+        "content": "Polyrhythmic Rings is a music website that was built using NextJS, TailwindCSS, and Framer Motion. The website is fully responsive and mobile friendly. Relaxing tunes and visuals to help you focus, meditate, or sleep.",
+        "imgurl": "/projectSS/ring.png",
+        "githubLink": "https://github.com/pranjal-rastogi/Polyrhythmic-Rings",
+        "deployedLink": "https://polyrhythmic-rings-silk.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Resume Builder",
+        "content": "Resume Builder is a web application that allows users to create a resume by filling out a form. The application was built using ReactJS, JavaScript and Bootstrap. The application is fully responsive and mobile friendly.",
+        "imgurl": "/projectSS/resume_builder.png",
+        "githubLink": "https://github.com/pranjal-rastogi/Resume-Builder",
+        "deployedLink": "https://resume-builder-tau-indol.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/bootstrap.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Paint App",
+        "content": "This drawing tool website will allow users to create freehand sketches, lines, rectangles, and add text. Users can customize the drawing tools by adjusting colors, stroke width, and other properties. The application will also support undo and redo functionality.",
+        "imgurl": "/projectSS/paint.png",
+        "githubLink": "https://github.com/pranjal-rastogi/Paint",
+        "deployedLink": "https://paint-pearl.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Refokus",
+        "content": "A static website built with ReactJS to help users refocus their minds and boost productivity. Refokus provides calming visuals, motivational quotes, and a distraction-free environment.",
+        "imgurl": "/projectSS/work.png",
+        "githubLink": "https://github.com/pranjal-rastogi/Refokus",
+        "deployedLink": "https://refokus-ten.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "SunDown",
+        "content": "An animated website inspired by Sundown, featuring soothing colors, smooth scrolling, and captivating animations powered by GSAP (GreenSock Animation Platform).",
+        "imgurl": "/projectSS/sundown.png",
+        "githubLink": "https://github.com/pranjal-rastogi/Sundown",
+        "deployedLink": "https://sundown-livid.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          },
+          {
+            "tech": "/skillsLogos/html.png"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Todo List",
+        "content": "The React Todo List with Local Storage project is a web-based task management application developed using React, designed to empower users to organize their tasks effectively while utilizing local storage for data persistence.",
+        "imgurl": "/projectSS/todo_list.png",
+        "githubLink": "https://github.com/pranjal-rastogi/todo-list",
+        "deployedLink": "https://todo-list-flame-three.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          },
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Task Manager",
+        "content": "Task Manager is a web application that allows users to create, update, and delete tasks. The application was built using  JavaScript and CSS3. The application is fully responsive and mobile friendly.",
+        "imgurl": "/projectSS/task_manager.png",
+        "githubLink": "https://github.com/pranjal-rastogi/Task_Manager",
+        "deployedLink": "https://pranjal-rastogi.github.io/Task_Manager/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Dev Detective",
+        "content": "Dev Detective is a web application that allows users to search for developers on GitHub. The application was built using  JavaScript, and CSS3. The application is fully responsive and mobile friendly.",
+        "imgurl": "/projectSS/devdectative.png",
+        "githubLink": "https://github.com/pranjal-rastogi/DevDetective",
+        "deployedLink": "https://pranjal-rastogi.github.io/DevDetective/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Weather App",
+        "content": "Weather App is a web application that allows users to search for weather information by city. The application was built using  JavaScript, and CSS3. The application is fully responsive and mobile friendly.",
+        "imgurl": "/projectSS/weather.png",
+        "githubLink": "https://github.com/pranjal-rastogi/weatherApp",
+        "deployedLink": "https://pranjal-rastogi.github.io/weatherApp/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      }
+    ]
+  }
+}
