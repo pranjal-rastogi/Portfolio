@@ -1,4 +1,4 @@
-# Portfolio - Nikhil Kadam
+# Portfolio - Pranjal Rastogi
 
 This is a portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
 
@@ -8,33 +8,6 @@ This is a portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
 - [Framer Motion](https://www.framer.com/motion/) - A production-ready animation library for React that makes it easy to create fluid and interactive UIs.
 
-## Installation
-
-1. Clone this repository to your local machine by running the following command in your terminal:
-
-    ```bash
-    git clone https://github.com/Nick-h4ck3r/portfolio-nextjs-latest.git
-    ```
-
-2. Change into the project directory:
-
-    ```bash
-    cd portfolio-nextjs-latest
-    ```
-
-3. Install the dependencies:
-
-    ```bash
-    npm install
-    ```
-
-4. Run the development server:
-
-    ```bash
-    npm run dev
-    ```
-
-5. Open <http://localhost:3000> in your browser to see the website.
 
 ## Usage
 
@@ -52,32 +25,6 @@ Feel free to experiment and customize the project to your liking.
 Don't be afraid to try out different effects and animations in Framer Motion or change the colors in the website using Tailwind CSS.
 
 Have fun!
-
-## Screenshots and Demo
-
-**Hero section:**
-
-![Hero section](/public/screenshots/portfolio/heroDemo.png)
-
-**About section:**
-
-![About section](/public/screenshots/portfolio/aboutDemo.png)
-
-**Experience section:**
-
-![Experience section](/public/screenshots/portfolio/experienceDemo.png)
-
-**Skills section:**
-
-![Skills section](/public/screenshots/portfolio/skillsDemo.png)
-
-**Projects section:**
-
-![Project section](/public/screenshots/portfolio/projectsDemo.png)
-
-**Contact section:**
-
-![Contact section](/public/screenshots/portfolio/contactDemo.png)
 
 **Live:** [Portfolio - Nikhil kadam](https://nikhilkadam.vercel.app/)
 
