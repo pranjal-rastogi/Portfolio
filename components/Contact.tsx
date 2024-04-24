@@ -185,7 +185,7 @@ export default function Contact({}: Props) {
           <span className="text-blue-500">
             <a
               target={"_blank"}
-              href="https://www.instagram.com/mr.pranjal_/"
+              href="https://www.linkedin.com/in/pranjal-rastogi-984623222/"
               rel="noreferrer"
             >
               pranjal
