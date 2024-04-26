@@ -3,6 +3,7 @@ import React from "react";
 import Image from "next/image";
 import profilePic from "public/extraImages/anime.jpg";
 
+
 type Props = {};
 
 export default function About({}: Props) {
@@ -31,7 +32,7 @@ export default function About({}: Props) {
         height={450}
         src={profilePic}
         className="-mb-28 md:mb-0 md:ml-16 flex-shrink-0 w-40 h-40 rounded-xl object-cover md:rounded-lg md:w-64 md:h-96 xl:w-[350px] xl:h-[450px]"
-        alt="nikhil kadam profile image"
+        alt="anime profile image"
         priority={false}
         placeholder="blur"
       />
