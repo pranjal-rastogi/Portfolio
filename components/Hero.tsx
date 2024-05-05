@@ -62,7 +62,7 @@ export default function Hero({}: Props) {
               projects
             </button>
           </Link>
-          <Link href={"https://drive.google.com/file/d/1UDwVBTP2EK_ZiNA6Uyt_q664LieYd9eg/view?usp=sharing"} target="blank">
+          <Link href={"https://drive.google.com/file/d/1Hj7MCvLHOR3LobaxfTdsTxJ8CJBJxGyk/view?usp=drive_link"} target="blank">
             <button className={buttonClasses}>
               resume
             </button>
